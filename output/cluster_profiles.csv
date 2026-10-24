@@ -1,0 +1,5 @@
+cluster,customer_count,avg_recency_days,avg_frequency,avg_monetary
+0,34335,250.95,1.0,92.13
+1,34108,88.09,1.0,164.66
+2,2803,220.79,2.11,267.22
+3,22112,453.33,1.0,167.01
